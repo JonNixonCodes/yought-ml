@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Added by JonNixonCodes
-*.txt
 *.csv
